@@ -2,7 +2,7 @@
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
 	<channel>
 		<title>The Way Station</title>
-		<link>http://waystation.co/</link>
+		<link>https://waystation.co/</link>
 		<lastBuildDate>Fri, 20 May 2022 15:42:16 +0000</lastBuildDate>
 		<language>en-US</language>
 		<itunes:author>Noah Read</itunes:author>
@@ -11,19 +11,19 @@
 		<description>The Way Station is a podcast featuring interviews with trailblazers who set the course of their own careers. My name is Noah Read and I host the podcast. They guests have varied interests and come from a wide range of creative and entrepreneurial fields. Join me and learn from those who are cutting a path and following their passions.</description>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:keywords>interviews,career,creative,technology,design,photography,industrial,design</itunes:keywords>
-		<itunes:new-feed-url>http://waystation.co/podcast/feed/index.rss</itunes:new-feed-url>
+		<itunes:new-feed-url>https://waystation.co/podcast/feed/index.rss</itunes:new-feed-url>
 		<itunes:owner>
 			<itunes:name>Noah Read</itunes:name>
 			<itunes:email>noah@waystation.co</itunes:email>
 		</itunes:owner>
 		<itunes:category text="Technology"/>
-		<itunes:image href="http://waystation.co/assets/uploads/general/The-Way-Station1400.jpg"/>
+		<itunes:image href="https://waystation.co/assets/uploads/general/The-Way-Station1400.jpg"/>
 				<item>
 			<title>Colin Devroe</title>
 			<category>Development</category>
 			<dc:creator>Noah Read</dc:creator>
 			<pubDate>Wed, 04 Dec 2013 00:00:00 +0000</pubDate>
-			<link>http://waystation.co/podcast/2013/12/4/colin-devroe</link>
+			<link>https://waystation.co/podcast/2013/12/4/colin-devroe</link>
 			<guid>http://s3.waystation.co/episodes/The_Way_Station_006_-_Colin_Devroe.mp3</guid>
 			<description><![CDATA[<p>This week's guest on The Way Station is Colin Devroe. Colin is a longtime web entrepreneur who has cofounded Plain, the creators of Barley CMS and Barley for Wordpress. We talk about technology and creating products that solve problems.</p><p>Links:</p><ul><li><a href="http://plainmade.com/">Plain</a></li><li><a href="https://twitter.com/cdevroe">Colin on Twitter</a></li><li><a href="https://alpha.app.net/cdevroe">Colin on ADN</a></li></ul><p>Favorite Things:</p><ul><li>Colin's favorite things: <a href="http://getbarley.com/">Barley</a>, <a href="http://twitter.com/">Twitter Connect &amp; Discover</a>, and <a href="https://ifttt.com/">IFTTT</a></li><li>Noah's favorite thing: <a href="https://square.com/cash">Square Cash</a></li></ul>]]></description>
 			<itunes:author>Noah Read</itunes:author>
@@ -32,7 +32,7 @@
 			<itunes:keywords>CMS,Web,design,Development,Medical,Software,technology</itunes:keywords>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:duration>01:24:16</itunes:duration>
-			<itunes:image href="http://waystation.co/assets/uploads/general/The-Way-Station1400.jpg"/>
+			<itunes:image href="https://waystation.co/assets/uploads/general/The-Way-Station1400.jpg"/>
 			<enclosure url="http://s3.waystation.co/episodes/The_Way_Station_006_-_Colin_Devroe.mp3" length="35468352" type="audio/mpeg"/>
 		</item>
 				<item>
@@ -40,7 +40,7 @@
 			<category>Development</category>
 			<dc:creator>Noah Read</dc:creator>
 			<pubDate>Mon, 30 Sep 2013 00:00:00 +0000</pubDate>
-			<link>http://waystation.co/podcast/2013/9/30/nathan-grigg</link>
+			<link>https://waystation.co/podcast/2013/9/30/nathan-grigg</link>
 			<guid>http://s3.waystation.co/episodes/The_Way_Station_005_-_Nathan_Grigg.mp3</guid>
 			<description><![CDATA[<p>This week's guest on The Way Station is Nathan Grigg. Nathan is a mathematician with a background in academic research who has recently started working at Google as a software engineer. We talk about career changes, being analytically minded and much more.</p><p>Links:</p><ul><li><a href="http://nathangrigg.net/">Nathan's Website</a></li><li><a href="https://twitter.com/nathangrigg">Nathan on Twitter</a></li><li><a href="https://alpha.app.net/nathangrigg">Nathan on ADN</a></li></ul><p>Favorite Things:</p><ul><li>Nathan's favorite thing: <a href="http://dayoneapp.com/">Day One</a></li><li>Noah's favorite things: <a href="http://www.amazon.com/gp/product/B000JMKVE4/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B000JMKVE4&amp;linkCode=as2&amp;tag=noarea-20">1491</a>, and <a href="http://www.amazon.com/gp/product/B004G606EY/ref=as_li_ss_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=B004G606EY&amp;linkCode=as2&amp;tag=noarea-20">1493</a> by Charles C. Mann</li></ul>]]></description>
 			<itunes:author>Noah Read</itunes:author>
@@ -49,7 +49,7 @@
 			<itunes:keywords>Math,mathematics,Software,Google</itunes:keywords>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:duration>51:52</itunes:duration>
-			<itunes:image href="http://waystation.co/assets/uploads/general/The-Way-Station1400.jpg"/>
+			<itunes:image href="https://waystation.co/assets/uploads/general/The-Way-Station1400.jpg"/>
 			<enclosure url="http://s3.waystation.co/episodes/The_Way_Station_005_-_Nathan_Grigg.mp3" length="21787503" type="audio/mpeg"/>
 		</item>
 				<item>
@@ -57,7 +57,7 @@
 			<category>Video</category>
 			<dc:creator>Noah Read</dc:creator>
 			<pubDate>Mon, 16 Sep 2013 03:53:00 +0000</pubDate>
-			<link>http://waystation.co/podcast/2013/9/16/garrett-gibbons</link>
+			<link>https://waystation.co/podcast/2013/9/16/garrett-gibbons</link>
 			<guid>http://s3.waystation.co/episodes/The_Way_Station_004_-_Garrett_Gibbons.mp3</guid>
 			<description><![CDATA[<p>Garrett Gibbons works as a photographer, music video director, and all around "media guy". We talk about starting a business and running it while not ruining your family. Garrett also shares his master plan, to bring back the musical. Listen in, it's fantastic.</p><p><a href="http://garrettgibbons.com/">Garrett's Website</a></p><p><a href="https://twitter.com/garrettgibbons">Garrett on Twitter</a></p>]]></description>
 			<itunes:author>Noah Read</itunes:author>
@@ -66,7 +66,7 @@
 			<itunes:keywords>Music,Videos,interviews,Film,photography,Dance</itunes:keywords>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:duration>54:28</itunes:duration>
-			<itunes:image href="http://waystation.co/assets/uploads/general/The-Way-Station1400.jpg"/>
+			<itunes:image href="https://waystation.co/assets/uploads/general/The-Way-Station1400.jpg"/>
 			<enclosure url="http://s3.waystation.co/episodes/The_Way_Station_004_-_Garrett_Gibbons.mp3" length="22879708" type="audio/mpeg"/>
 		</item>
 				<item>
@@ -74,7 +74,7 @@
 			<category>Development</category>
 			<dc:creator>Noah Read</dc:creator>
 			<pubDate>Mon, 09 Sep 2013 03:51:00 +0000</pubDate>
-			<link>http://waystation.co/podcast/2013/9/9/collin-donnell</link>
+			<link>https://waystation.co/podcast/2013/9/9/collin-donnell</link>
 			<guid>http://s3.waystation.co/episodes/The_Way_Station_003_-_Collin_Donnell.mp3</guid>
 			<description><![CDATA[<p>Collin Donnell is a talented iOS developer, with an eye for design, who has worked on hits, such as <a href="http://culturedcode.com/things/iphone/">Things</a> and <a href="http://avatron.com/apps/air-display">Air Display</a>. He is also the creator of <a href="https://itunes.apple.com/us/app/pinbook-for-pinboard/id564452716?mt=8">Pinbook</a>, one of my most used apps. His latest venture is co-founding Braid Labs, whose first app will tackle email. We talk about making it in the growing field of iOS development and what it takes to make great products. </p><p>Links:</p><ul><li><a href="http://collindonnell.com/">Collin's website</a></li><li><a href="http://braidapp.com/">Braid Labs</a></li><li><a href="https://twitter.com/collindonnell">Collin on Twitter</a></li><li><a href="https://alpha.app.net/collindonnell">Collin on ADN</a></li></ul>]]></description>
 			<itunes:author>Noah Read</itunes:author>
@@ -83,7 +83,7 @@
 			<itunes:keywords>iOS,Development,design,career</itunes:keywords>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:duration>01:09:46</itunes:duration>
-			<itunes:image href="http://waystation.co/assets/uploads/general/The-Way-Station1400.jpg"/>
+			<itunes:image href="https://waystation.co/assets/uploads/general/The-Way-Station1400.jpg"/>
 			<enclosure url="http://s3.waystation.co/episodes/The_Way_Station_003_-_Collin_Donnell.mp3" length="29308417" type="audio/mpeg"/>
 		</item>
 				<item>
@@ -91,7 +91,7 @@
 			<category>Photography</category>
 			<dc:creator>Noah Read</dc:creator>
 			<pubDate>Mon, 02 Sep 2013 00:00:00 +0000</pubDate>
-			<link>http://waystation.co/podcast/2013/9/2/tony-murray</link>
+			<link>https://waystation.co/podcast/2013/9/2/tony-murray</link>
 			<guid>http://s3.waystation.co/episodes/The_Way_Station_002_-_Tony_Murray.mp3</guid>
 			<description><![CDATA[<p>Tony Murray is a professional landscape photography whose work features beautiful vistas from the Tetons, to Qatar, to the Himalayas. We talk about what it takes to be a professional photographer in the age of Instagram and cheap digital cameras.</p><ul><li><a href="http://shotrockers.com/">Shot Rockers</a></li><li><a href="http://tonymurrayphoto.com/">Tony's Website</a></li></ul>]]></description>
 			<itunes:author>Noah Read</itunes:author>
@@ -100,7 +100,7 @@
 			<itunes:keywords>photography,landscape</itunes:keywords>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:duration>41:46</itunes:duration>
-			<itunes:image href="http://waystation.co/assets/uploads/general/The-Way-Station1400.jpg"/>
+			<itunes:image href="https://waystation.co/assets/uploads/general/The-Way-Station1400.jpg"/>
 			<enclosure url="http://s3.waystation.co/episodes/The_Way_Station_002_-_Tony_Murray.mp3" length="17543205" type="audio/mpeg"/>
 		</item>
 				<item>
@@ -108,7 +108,7 @@
 			<category>Industrial Design</category>
 			<dc:creator>Noah Read</dc:creator>
 			<pubDate>Mon, 26 Aug 2013 03:08:00 +0000</pubDate>
-			<link>http://waystation.co/podcast/2013/8/26/amber-hooper</link>
+			<link>https://waystation.co/podcast/2013/8/26/amber-hooper</link>
 			<guid>http://s3.waystation.co/episodes/The_Way_Station_001_-_Amber_Hooper.mp3</guid>
 			<description><![CDATA[<p>This week's guest is Amber Hooper. She's a talented industrial designer with a focus on medical equipment and processes. She talks about how she ended up in her dream job and the twists and turns along the way. It's a pretty great story.</p><p>Amber's Twitter: <a href="https://twitter.com/outdoorber">@outdoorber</a></p><ul><li><a href="http://id.byu.edu/">BYU Industrial Design Program</a></li><li><a href="http://www.candlewarmers.com/">Candle Warmers</a></li><li><a href="http://spark.utah.edu/spark-labs">University of Utah: Spark Labs</a></li><li><a href="http://dschool.stanford.edu/">Stanford D School</a></li><li><a href="http://www.ideo.com/">IDEO</a></li></ul><p>Amber's Favorite Thing: <a href="http://couscousgrill.com/">Couscous Mediterranean Grill</a></p><p>Noah's Favorite Thing: <a href="http://www.urbanspoon.com/r/54/590194/restaurant/East-Central/Banbury-Cross-Salt-Lake-City">Banbury Cross</a></p>]]></description>
 			<itunes:author>Noah Read</itunes:author>
@@ -117,7 +117,7 @@
 			<itunes:keywords>industrial,design,medicine,Medical,equipment,design,thinking,graduate,studies,donuts,fresh,food</itunes:keywords>
 			<itunes:explicit>no</itunes:explicit>
 			<itunes:duration>31:18</itunes:duration>
-			<itunes:image href="http://waystation.co/assets/uploads/general/The-Way-Station1400.jpg"/>
+			<itunes:image href="https://waystation.co/assets/uploads/general/The-Way-Station1400.jpg"/>
 			<enclosure url="http://s3.waystation.co/episodes/The_Way_Station_001_-_Amber_Hooper.mp3" length="13153354" type="audio/mpeg"/>
 		</item>
 			</channel>
