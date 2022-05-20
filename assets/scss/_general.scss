@@ -1,0 +1,195 @@
+/*-------------------------------------------
+  Colors
+-------------------------------------------*/
+
+$black: #000;
+$white: #FFF;
+$gray: #828282;
+$red: #9A2D19;
+$brightred: #da4023;
+$tan: #EEE6B8;
+
+/*-------------------------------------------
+  Typography
+-------------------------------------------*/
+
+html {
+	font-size: 62.5%;
+	font-family: "ff-tisa-sans-web-pro",sans-serif;
+	@media screen and (max-width:767px) {
+		font-size: 50%;
+	}
+	@media screen and (max-width:568px) {
+		font-size: 45%;
+	}
+}
+
+h1,h2 {
+	font-family: "abril-text",serif;
+	font-weight: 700;
+}
+
+h1 {
+	@include font-size(5.2);
+	line-height: 136.5384615%;
+	text-align: center;
+	@media screen and (max-width: 568px) {
+		@include font-size(4.2);
+	}
+	a {
+		color: $red;
+		&:hover {
+			color: $brightred;
+		}
+	}
+}
+
+h2 {
+	@include font-size(3.2);
+	line-height: 134.375%;
+}
+
+h3 {
+	@include subheader();
+	line-height: 146.1538462%;
+	letter-spacing: 7px;
+	text-align: center;
+	article & {
+		text-align: left;
+		letter-spacing: 2px;
+		line-height: 134.375%;
+	}
+}
+
+nav[role="navigation"] {
+	@include subheader();
+	li.current {
+		a {
+			color: $red;
+		}
+	}
+	li {
+		a {
+			&:hover {
+				color: $brightred;
+			}
+		}
+	}
+}
+
+time {
+	@include subheader();
+	color: $gray;
+}
+
+aside[role="complementary"] {
+	@include subheader();
+}
+
+p {
+	article > &, .tag-cat-header &, #contact-form & {
+		@include text();
+		color: $gray;
+	}
+}
+
+ul, ol {
+	article > & {
+		@include text();
+		color: $gray;
+	}
+}
+
+a {
+	article & {
+		color: $black;
+		text-decoration: underline;
+		&:hover {
+			color: $brightred;
+			text-decoration: underline;
+		}
+	}
+	article header & {
+		text-decoration: none;
+		&:hover {
+			text-decoration: none;
+		}
+	}
+	.pagination & {
+		@include text();
+		&:hover {
+			color: $brightred;
+			text-decoration: underline;
+		}
+	}
+}
+
+/*-------------------------------------------
+  General
+-------------------------------------------*/
+
+body {
+	background: $tan url(../img/header.jpg) no-repeat center top;
+	background-size: 100% auto;
+	@media screen and (max-width: 568px) {
+		background-size: 175% auto;
+	}
+}
+
+section[role="main"] {
+	@include container();
+}
+
+.tag-cat-header {
+	padding-top: 4rem;
+}
+
+article {
+	padding: 5rem 0 4rem;
+	border-bottom: 1px solid $gray;
+	@media screen and (max-width: 568px) {
+		padding: 2.5rem 0 2rem;
+	}
+	> * {
+		margin-bottom: 1.2rem;
+		&:last-child {
+			margin-bottom: 0;
+		}
+	}
+	header {
+		padding-bottom: 1.3rem;
+	}
+	&:last-of-type {
+		border-bottom: none;
+	}
+}
+
+audio {
+	width: 100%;
+	display: block;
+	margin-top: 2.2rem;
+	margin-bottom: 3.2rem;
+	@media screen and (max-width: 767px) {
+		width: 200px;		
+	}
+}
+
+aside[role="complementary"] {
+	p {
+		margin-bottom: 1.2rem;
+		&:last-of-type {
+			margin-bottom: 0;
+		}
+	}
+}
+
+.pagination {
+	@include container();
+	overflow: hidden;
+	.next {
+		float: right;
+	}
+	.previous {
+		float: left;
+	}
+}

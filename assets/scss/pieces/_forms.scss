@@ -1,0 +1,38 @@
+form {
+	margin-top: 4rem;
+	padding-top: 4rem;
+	border-top: 1px solid $gray;
+}
+
+label {
+	@include text();
+	color: $gray;
+}
+
+input#crazypants {
+	display: none;
+}
+
+input[type="text"], input[type="email"], textarea {
+	@include text();
+	padding: .5rem;
+	border: 1px solid $gray;
+	width: 100%;
+	margin-bottom: 1.2rem;
+}
+
+#thanks, #errors {
+	margin-top: 1.2rem;
+	display: none;
+	&.show {
+		display: block;
+	}
+}
+
+#thanks {
+	color: green !important;
+}
+
+#errors {
+	color: red !important;
+}
